@@ -1,10 +1,10 @@
-{
-  "signature": "I+LTTytdN+SuKEj0YGrVrP6vm1w+7wynOJrdD0M+DBR9LUJU26VuydlhwFN+JN0Up9tynKDER0flsL7uRmjd/Q==",
-  "addresses": [
-    {
-      "currency": "XRP",
-      "address": "rPVMhWBsfF9iMXYj3aAzJVkPDTFNSyWdKy",
-      "tag": 1218293294
-    }
-  ]
+{  
+   "signature":"3RmHYiBwUl/Wtaeqmo//ESoV9xUMyokwlAa7h631zliAq4KmRudSNsQFqg6ndxFkm+VXjF4o5lYrW9D2J5cVIg==",
+   "addresses":[  
+      {  
+         "currency":"XRP",
+         "address":"rDnP4CqvsEhH7GetEAwicNqVN7xLAycu8D",
+         "tag":1218293294
+      }
+   ]
 }
